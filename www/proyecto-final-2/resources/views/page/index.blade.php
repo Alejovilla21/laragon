@@ -1,7 +1,11 @@
-<p>ldjkljkldfhkldfjkfdgklsjh</p>
 @extends('layout.plantilla')
 
 @section('contenido')
-    @extends
 
-    {{$texto=""}}
+    <ul>
+        <li>Inicio</li>
+        <li>Contactos</li>
+    </ul>
+    <button class="btn btn-info">Ejemplo</button>
+
+    @endsection
