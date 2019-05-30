@@ -2,6 +2,6 @@
 @extends('layout.plantilla')
 
 @section('contenido')
-    
+    @extends
 
     {{$texto=""}}
