@@ -1,0 +1,69 @@
+cde cusrolaravel
+cd cursolaravel
+dir
+mkdir cusrolaravel
+cd cusrolaravel
+cde cusrolaravel
+dir
+mkdir cusrolaravel
+cd cusrolaravel
+cd:
+cd..
+composer create project laravel/laravel cursolaravel
+composer create/project laravel/laravel cursolaravel
+composer create-project laravel/laravel cursolaravel
+php artesan serve
+cd cursolaravel
+php artisan make:controller PagesController 
+php artisan make:controller PagesController --resource
+php artisan make:controller PagesController
+php artisan serve
+php artisan make:controller PagesController --resource
+php artisan make:controller PagesController
+php artisan
+php artisan make:controller Page1Controller 
+php artisan make:controller Page1Controller --resource
+php artisan make:controller Page2Controller --resource
+php artisan make:controller PageController
+php artisan serve
+php artisan make:controller Page1Controller 
+php artisan make:controller Page1Controller --resource
+php artisan make:controller Page2Controller --resource
+php artisan make:controller PageController
+php artisan
+cd..
+cd actividad1
+php artisan make:controller AuthorsController
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan make:migration create_usuarios_table
+cd actividad1
+php artisan make:controller AuthorsController
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan make:migration create_usuarios_table
+php artisan serve
+php artisan make:migration create_usuarios_table --create
+php artisan make:migration create_users_table --create
+php artisan make:migration create_usuarioss_table --create
+php artisan migrate
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan make:migration create_usuarios_table
+php artisan make:migration create_usuarios_table --create
+php artisan make:migration create_users_table --create
+php artisan make:migration create_usuarioss_table --create
+php artisan make:migration create_producto_table --create
+php artisan make:migration create_tipo_producto_table --create
+php artisan serve
+php artisan migrate
+php artisan migrate:refresh
+php artisan serve
+php artisan serve
